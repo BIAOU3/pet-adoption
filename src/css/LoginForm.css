@@ -1,0 +1,56 @@
+.login-form-container {
+  background-color: #ffffff;
+  padding: 80px;
+  width: 700px;
+  margin: 100px auto;
+  border-radius: 16px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.login-form h1 {
+  font-size: 48px;
+  color: #333;
+  margin-bottom: 60px;
+}
+
+.login-form input {
+  width: 80%;
+  padding: 30px;
+  margin-bottom: 40px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+}
+
+.login-form button {
+  width: 90%;
+  padding: 30px;
+  background-color: #6C63FF;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: 36px;
+}
+
+.login-form button:hover {
+  background-color: #5a55da;
+}
+
+.login-form .error-message {
+  color: #e74c3c;
+  margin-top: 20px;
+}
+
+.register-prompt {
+  margin-top: 40px;
+}
+
+.register-prompt span {
+  color: #6C63FF;
+  cursor: pointer;
+}
+
+.register-prompt span:hover {
+  text-decoration: underline;
+}

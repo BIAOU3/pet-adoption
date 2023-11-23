@@ -1,0 +1,13 @@
+body, html {
+    block-size: 100%;
+    margin: 0;
+    background-color: #006666;
+}
+
+.App {
+    text-align: center;
+    block-size: 100%;
+}
+
+
+
